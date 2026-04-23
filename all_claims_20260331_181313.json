@@ -1,0 +1,1304 @@
+[
+  {
+    "address": "0x01fb069f7d4bac63a1534f3fa5b7761795d71f73",
+    "total": 10242375.169341
+  },
+  {
+    "address": "0x0240a6c1e31ea1b84f5beafebf6769571590083f",
+    "claimed_xcash": 35560323.950842,
+    "total": 35560323.950842
+  },
+  {
+    "address": "0x02c0e085eaa4302e5c7d6bfe0573cb9b49f79e8c",
+    "claimed_xcash": 36911118.710158,
+    "total": 36911118.710158
+  },
+  {
+    "address": "0x034966764b715e84da62ba863b7a073de746531b",
+    "claimed_xcash": 137405531.934463,
+    "total": 137405531.934463
+  },
+  {
+    "address": "0x04f9a11a5c06e85a58a592182609055bc4cf5284",
+    "claimed_xcash": 79863382.265655,
+    "total": 79863382.265655
+  },
+  {
+    "address": "0x079d07f24d454bcc149dced3830c1df45f94c37d",
+    "claimed_xcash": 75556733.218372,
+    "total": 75556733.218372
+  },
+  {
+    "address": "0x082ee0a8eae001b18540adc437973d97bca8333e",
+    "claimed_xcash": 5105987.497311,
+    "total": 5105987.497311
+  },
+  {
+    "address": "0x0878cfff60855e2e4836a66abcc22d1ac0b16fee",
+    "claimed_xcash": 70929992.991922,
+    "total": 70929992.991922
+  },
+  {
+    "address": "0x0a43a029690b13afded2455138bcd3a426d69efb",
+    "claimed_xcash": 325649399.882091,
+    "total": 325649399.882091
+  },
+  {
+    "address": "0x0aeef2bcae3b8736e6e759a6a28df8a9b85bcfd3",
+    "claimed_xcash": 156096228.449813,
+    "total": 156096228.449813
+  },
+  {
+    "address": "0x0aff5db1767e06a0b75441dfcbea40e8433d6c7a",
+    "claimed_xcash": 26463925.865265,
+    "total": 26463925.865265
+  },
+  {
+    "address": "0x0b2d87a951b2ae021102de7041aa10fa2bf66ea9",
+    "total": 36229186.928344
+  },
+  {
+    "address": "0x0c2c06ad6ca9b3235d0e0f743589378749eaf1b4",
+    "deposited_wxcash": 186959192.10260844,
+    "total": 186959192.102608
+  },
+  {
+    "address": "0x0c4d3157329fce83c1668fe6d229b54e4c166eb5",
+    "claimed_xcash": 62443549.266508,
+    "total": 62443549.266508
+  },
+  {
+    "address": "0x0dfa543cebd8bf1653c232abf3f1b7ab1f1013a0",
+    "claimed_xcash": 137421747.179082,
+    "total": 137421747.179082
+  },
+  {
+    "address": "0x0f22cb046fdd2e6e45ffa3b40498370f723cea90",
+    "total": 27649073.669632
+  },
+  {
+    "address": "0x0f2a2c2df349194d0ba66c0e7f61a7f67a5e7d73",
+    "claimed_xcash": 244281588.271976,
+    "total": 244281588.271976
+  },
+  {
+    "address": "0x0fdeab999d00c1282da8f76d7e29bcd5082c9ba4",
+    "claimed_xcash": 37674561.865153,
+    "total": 37674561.865153
+  },
+  {
+    "address": "0x10372a75a79125c6cf1f5236015c2a9e10f2ee62",
+    "claimed_xcash": 2661047.949057,
+    "total": 2661047.949057
+  },
+  {
+    "address": "0x1074105b9b3e6bd62597ad45723ffe697d68d75f",
+    "total": 58909376.734519
+  },
+  {
+    "address": "0x112e23d01eb5bc7dac2f08325949a62d1a290a04",
+    "claimed_xcash": 22134865.621906,
+    "total": 22134865.621906
+  },
+  {
+    "address": "0x124f81a5db81ad83a7ab291919d454d672dc1fd6",
+    "claimed_xcash": 28508883.692027,
+    "total": 28508883.692027
+  },
+  {
+    "address": "0x126eee7c0a77b265d66b9dee63861a898a6dd678",
+    "claimed_xcash": 47226472.46325,
+    "total": 47226472.46325
+  },
+  {
+    "address": "0x1274b41147728e16ee44241e98cf002ac6d15d74",
+    "total": 46687956.581405
+  },
+  {
+    "address": "0x12e413af93132ccff042ffb2fcadbb2272fe2ca5",
+    "claimed_xcash": 64887.916303,
+    "total": 64887.916303
+  },
+  {
+    "address": "0x13563db0a925bcf39ad3a611c7e5ba4dd03c474e",
+    "claimed_xcash": 60366.741442,
+    "total": 60366.741442
+  },
+  {
+    "address": "0x14a70dd0e85cb922501f83deb0723a0945bdfbc0",
+    "claimed_xcash": 347176884.462941,
+    "total": 347176884.462941
+  },
+  {
+    "address": "0x15062081ad10269ba3c58dd72c01ad340368f087",
+    "claimed_xcash": 8037870.553002,
+    "total": 8037870.553002
+  },
+  {
+    "address": "0x1821f3434edc2908762638df5472fb21ead79176",
+    "claimed_xcash": 291395101.68681,
+    "total": 291395101.68681
+  },
+  {
+    "address": "0x1991d4130b117c0d91263f1016adce815d35d2ce",
+    "claimed_xcash": 317547781.522156,
+    "total": 317547781.522156
+  },
+  {
+    "address": "0x1998e01a25dcd64c5dc0db431559c2ad6e916ac4",
+    "claimed_xcash": 6959479.755721,
+    "total": 6959479.755721
+  },
+  {
+    "address": "0x1b490fb9c29575e8a2bf490a5de2a4b2776fcce2",
+    "claimed_xcash": 4509543.835576,
+    "total": 4509543.835576
+  },
+  {
+    "address": "0x1b497785062deb53bedf6df9fcfc3960f2cdaffd",
+    "claimed_xcash": 1320624.000563,
+    "total": 1320624.000563
+  },
+  {
+    "address": "0x1b8d6ffb1d6a75c62e85bed76b1548ecd230c666",
+    "claimed_xcash": 188277045.392782,
+    "total": 188277045.392782
+  },
+  {
+    "address": "0x1c87aa84dde0ab9093098a11be68fdd76d8855f4",
+    "claimed_xcash": 184202734.456403,
+    "total": 184202734.456403
+  },
+  {
+    "address": "0x1de19c73e64c7ba5f528586bd10b64fbad83e9bb",
+    "total": 13944685.978884
+  },
+  {
+    "address": "0x1e1d162996358927f9ecddb53dcd1a96d7f7c905",
+    "claimed_xcash": 3678136.532219,
+    "total": 3678136.532219
+  },
+  {
+    "address": "0x1e76c1f7e82ec9016449921bcbbc9faefe0854fd",
+    "claimed_xcash": 47293596.817996,
+    "total": 47293596.817996
+  },
+  {
+    "address": "0x206ae4a53d8b750c87c2b2aa072d8544f2cdc098",
+    "claimed_xcash": 20731152.856252,
+    "total": 20731152.856252
+  },
+  {
+    "address": "0x2239706bee58dbaa44322f6b17c8e556af9aab77",
+    "total": 30277433.057236
+  },
+  {
+    "address": "0x26ad59bd036b1a6bd5647d81eced913cfdfc9942",
+    "claimed_xcash": 87207366.643657,
+    "total": 87207366.643657
+  },
+  {
+    "address": "0x26eaf9e1c5018f6266fe6aac32ed6f3bbd9ef97a",
+    "claimed_xcash": 6366175.230171,
+    "total": 6366175.230171
+  },
+  {
+    "address": "0x2775abba0e6a77e78dc16f60348f58d285fc8dad",
+    "claimed_xcash": 5612805.382839,
+    "deposited_wxcash": 45007739.65027644,
+    "total": 50620545.033115
+  },
+  {
+    "address": "0x29675d0bc954b780c9489dd0e2824fa13b5e1e66",
+    "claimed_xcash": 84137818.109857,
+    "total": 84137818.109857
+  },
+  {
+    "address": "0x2a6c678e12c8c9df2d2c02b517d464e5f8374073",
+    "deposited_wxcash": 158220541.79219472,
+    "total": 158220541.792195
+  },
+  {
+    "address": "0x2afe91551cd495ee7bc920b4208bdf00d167f94d",
+    "claimed_xcash": 255351000.0,
+    "total": 255351000.0
+  },
+  {
+    "address": "0x2b28b76df53a4940c99521bc4253818079c85645",
+    "claimed_xcash": 41377172.592842,
+    "total": 41377172.592842
+  },
+  {
+    "address": "0x2bc612ff8cd7f0122aee90e263c614ee10263c27",
+    "claimed_xcash": 23298396.355028,
+    "total": 23298396.355028
+  },
+  {
+    "address": "0x2bd5f49e9a3a90ff845ebce53106078e1ef3b6db",
+    "total": 20200842.706791
+  },
+  {
+    "address": "0x2c0be696d5de344c5e1d8566b128109a8a3b5bb5",
+    "claimed_xcash": 99.982662,
+    "total": 99.982662
+  },
+  {
+    "address": "0x2cd19bede12e0e13c500860af42ca83e4fcc73a6",
+    "claimed_xcash": 31758954.894425,
+    "total": 31758954.894425
+  },
+  {
+    "address": "0x2e0821d91b937af96d0e2da4e7aca35ab42c8c86",
+    "claimed_xcash": 119263647.199789,
+    "total": 119263647.199789
+  },
+  {
+    "address": "0x2fb8fffbca315a10bb0a6e42c2ce4388dfd6fc48",
+    "total": 10216485.718144
+  },
+  {
+    "address": "0x302da6acbd97c425192af64b9ae739ca5c2b52bc",
+    "claimed_xcash": 10406101.406914,
+    "total": 10406101.406914
+  },
+  {
+    "address": "0x31b02a98d30110506494a28063f7a4990b332704",
+    "deposited_wxcash": 59901.070554414924,
+    "total": 59901.070554
+  },
+  {
+    "address": "0x32360879bc2cccd6cbb90d39543a0a7680d79876",
+    "claimed_xcash": 442382744.629126,
+    "total": 442382744.629126
+  },
+  {
+    "address": "0x33078f6063e6feb02bdb519aa3009ad9f25028dd",
+    "claimed_xcash": 9103652.672062,
+    "total": 9103652.672062
+  },
+  {
+    "address": "0x337a07498f9db0c4dbb14973fa0b6843568974cb",
+    "claimed_xcash": 10008860.568442,
+    "total": 10008860.568442
+  },
+  {
+    "address": "0x349e432247f65c13ada1d3977e81ae2ea2958cd8",
+    "total": 30792319.75756
+  },
+  {
+    "address": "0x35972275062469e131304386893d49adaad11291",
+    "claimed_xcash": 1279593260.052033,
+    "total": 1279593260.052033
+  },
+  {
+    "address": "0x365b072518fcde43677d9a6746accbf634fc537f",
+    "claimed_xcash": 7242275.42,
+    "total": 7242275.42
+  },
+  {
+    "address": "0x3788a281ae62e361f9b0ea4a01d63583ccd4d657",
+    "claimed_xcash": 482627329.470229,
+    "total": 482627329.470229
+  },
+  {
+    "address": "0x37d78a959a356ab523dc5bdb6489ffb7d47ccb66",
+    "claimed_xcash": 33796829.164902,
+    "total": 33796829.164902
+  },
+  {
+    "address": "0x39a3a89a493f2c375bc26304fcd37010ff12e79c",
+    "claimed_xcash": 51109896.159556,
+    "total": 51109896.159556
+  },
+  {
+    "address": "0x3a96ddaf838e2507074acf8d988dcf265fb47af3",
+    "claimed_xcash": 100162433.048279,
+    "total": 100162433.048279
+  },
+  {
+    "address": "0x3bf524a879ff41909ebf9e2ee7ade26ee9d140aa",
+    "deposited_wxcash": 55068673.28027032,
+    "total": 55068673.28027
+  },
+  {
+    "address": "0x3c08f5e2485b0b320e082468ac27fcd9459a9ef2",
+    "claimed_xcash": 50486941.555093,
+    "total": 50486941.555093
+  },
+  {
+    "address": "0x3c9694f6764cd25453208f800ba442d0d2ff4c13",
+    "deposited_wxcash": 3010937.10489694,
+    "total": 3010937.104897
+  },
+  {
+    "address": "0x3e6ac3922eab3833f3ca13914d3b3163a1ada5b7",
+    "claimed_xcash": 295580964.250021,
+    "total": 295580964.250021
+  },
+  {
+    "address": "0x3e7f1b766d90c839e83df0f650d30ca7c8697cd6",
+    "claimed_xcash": 102573971.0,
+    "total": 102573971.0
+  },
+  {
+    "address": "0x3e7fb9aba417bed7d94f6b94841104458340609e",
+    "claimed_xcash": 3283587.329279,
+    "deposited_wxcash": 10999947.032928215,
+    "total": 14283534.362207
+  },
+  {
+    "address": "0x456253af9ce623c45b12004cede92452c23dfbef",
+    "total": 43385455.316029
+  },
+  {
+    "address": "0x468cc1210ae69c769933354215e89ecb4aa987d8",
+    "claimed_xcash": 17395088.429136,
+    "total": 17395088.429136
+  },
+  {
+    "address": "0x46c3b083fcea09180b504a9805e6d6736c528006",
+    "claimed_xcash": 860546.996,
+    "total": 860546.996
+  },
+  {
+    "address": "0x4abbf8a72aca45007f921afd055e97e228e9b842",
+    "claimed_xcash": 133038419.90095,
+    "deposited_wxcash": 4880000.0,
+    "total": 137918419.90095
+  },
+  {
+    "address": "0x4c297d5fe9725c35dce7c9ca7e959efc9860ba51",
+    "claimed_xcash": 176825076.145407,
+    "total": 176825076.145407
+  },
+  {
+    "address": "0x4cd14f62214b28ff3f0acbb21caa81d6594600c7",
+    "claimed_xcash": 217002165.693041,
+    "total": 217002165.693041
+  },
+  {
+    "address": "0x4cfb05372e4bf26a7ec865e6b89f245904b78535",
+    "claimed_xcash": 114980.34,
+    "total": 114980.34
+  },
+  {
+    "address": "0x4d2cc282e86e3d30adb08f17768b32aa0f34704d",
+    "total": 5363468.98267
+  },
+  {
+    "address": "0x5013946f249ca27c39b28842b7236e36c0967cdf",
+    "claimed_xcash": 88556761.774143,
+    "total": 88556761.774143
+  },
+  {
+    "address": "0x501726911d2375683af63a1104d73faf7e5bdc9e",
+    "claimed_xcash": 46024804.019111,
+    "total": 46024804.019111
+  },
+  {
+    "address": "0x5059425627562003e8e88ca819cdf38f5956a5c4",
+    "claimed_xcash": 7117168.311355,
+    "total": 7117168.311355
+  },
+  {
+    "address": "0x50cb0894ea650396ad7d307a91256fb89e7edae5",
+    "total": 16013540.256891
+  },
+  {
+    "address": "0x51bdda79ffb56f13d8c625ffeff145235226d4d5",
+    "claimed_xcash": 67730787.931674,
+    "deposited_wxcash": 1500.0,
+    "total": 67732287.931674
+  },
+  {
+    "address": "0x52ddfdb981a07abe1fc269330686b2af638c46ff",
+    "claimed_xcash": 3861093.538246,
+    "total": 3861093.538246
+  },
+  {
+    "address": "0x5313009078f43c289eb100592e9acd3580854cfe",
+    "claimed_xcash": 35209981.232131,
+    "total": 35209981.232131
+  },
+  {
+    "address": "0x53ec6e5aa4b08e9f7fc6f60c1adb025a3928f7be",
+    "claimed_xcash": 107000777.0,
+    "total": 107000777.0
+  },
+  {
+    "address": "0x5485cfa3f0b816e8be9bd8c94b5c350a4977c1b5",
+    "claimed_xcash": 42959288.088822,
+    "total": 42959288.088822
+  },
+  {
+    "address": "0x5696608eb95fddea9689251fcd0356ace08b9749",
+    "claimed_xcash": 70170690.070076,
+    "total": 70170690.070076
+  },
+  {
+    "address": "0x56d9be09828d98f98ed86504b61963a2a64e3e2a",
+    "claimed_xcash": 198945611.506659,
+    "total": 198945611.506659
+  },
+  {
+    "address": "0x570a7551730e050eb8e2076fc2edc86523aa591e",
+    "claimed_xcash": 352154546.256693,
+    "total": 352154546.256693
+  },
+  {
+    "address": "0x572b211f2eaa6cb0e9871b54d14658c92eb85d0f",
+    "claimed_xcash": 169722781.483038,
+    "total": 169722781.483038
+  },
+  {
+    "address": "0x5747689f00bcb0640178de2551125da2f3c8278c",
+    "claimed_xcash": 27208076.696294,
+    "total": 27208076.696294
+  },
+  {
+    "address": "0x57e19f730dc87594d24fd0dac0e6bd8efcb5bb29",
+    "claimed_xcash": 6033727.541606,
+    "total": 6033727.541606
+  },
+  {
+    "address": "0x5818470cbfdaefc32c825a88b3e3a781707d014d",
+    "claimed_xcash": 222473936.84813,
+    "total": 222473936.84813
+  },
+  {
+    "address": "0x58b5c7dd54ee7bb5e4cae3b956165306f5d0a3a8",
+    "claimed_xcash": 54855580.120034,
+    "total": 54855580.120034
+  },
+  {
+    "address": "0x5b5f03bd045553205b10b9fc62b94b8fd8e798aa",
+    "claimed_xcash": 28157120.578268,
+    "total": 28157120.578268
+  },
+  {
+    "address": "0x5bb9ef024ff5ec41d4f20435e75c75e5104dc3de",
+    "deposited_wxcash": 3579.725852534684,
+    "total": 3579.725853
+  },
+  {
+    "address": "0x5c48caad339fea85d07ea17d184802b7b6a844a2",
+    "claimed_xcash": 120000.0,
+    "total": 120000.0
+  },
+  {
+    "address": "0x5e5b0a2c56a4c6139f772946d68cdf3aac06e713",
+    "deposited_wxcash": 135836236.65302896,
+    "total": 135836236.653029
+  },
+  {
+    "address": "0x5f0b0171e50a453da12ae36d92706a29df7730ea",
+    "total": 30281183.407277
+  },
+  {
+    "address": "0x5f2e6163c1324f16c7eb1554662b7e26fe463734",
+    "deposited_wxcash": 32323735.480990414,
+    "total": 32323735.48099
+  },
+  {
+    "address": "0x5f7bf400546d28c6edde07573a357719be5fcda9",
+    "claimed_xcash": 360000.0,
+    "total": 360000.0
+  },
+  {
+    "address": "0x5ff9f873f226c76264b9cd2acda4ede03f01f717",
+    "claimed_xcash": 40124238.997579,
+    "total": 40124238.997579
+  },
+  {
+    "address": "0x6061b3ceb4d4ba3ed54a3270f7a6456402af6ab9",
+    "claimed_xcash": 252971583.906374,
+    "total": 252971583.906374
+  },
+  {
+    "address": "0x61565b13faba16f5f3e1c5b1b3c5afd9a98ae458",
+    "claimed_xcash": 5952401.226,
+    "total": 5952401.226
+  },
+  {
+    "address": "0x625afb72b48eab990cdd8cd08fc9f520191b9fb2",
+    "claimed_xcash": 5026695.07,
+    "total": 5026695.07
+  },
+  {
+    "address": "0x63c0aeaca7fee4aed3df0b6e2c6b179c85c57f39",
+    "claimed_xcash": 22274258.768746,
+    "total": 22274258.768746
+  },
+  {
+    "address": "0x640cd535f6c714bf886bf04127f74eb8638d9601",
+    "claimed_xcash": 83054522.826752,
+    "total": 83054522.826752
+  },
+  {
+    "address": "0x6420184e0743f95a80a7827b701c943497e4bec9",
+    "claimed_xcash": 6357981.071329,
+    "total": 6357981.071329
+  },
+  {
+    "address": "0x6688b1fee63f17a282e61dbcdbfbee1f3f582067",
+    "total": 28162185.045079
+  },
+  {
+    "address": "0x67db25c09b935cfa638d5c3792e500d66de1fd52",
+    "claimed_xcash": 166607693.639692,
+    "total": 166607693.639692
+  },
+  {
+    "address": "0x68b0bdf1a4e35fc9a870f1e622cd77855c9d1843",
+    "claimed_xcash": 651608076.860429,
+    "deposited_wxcash": 4000000.0,
+    "total": 655608076.860429
+  },
+  {
+    "address": "0x6af2dc3730028d42abe456449d489cfbecc83c46",
+    "claimed_xcash": 7506468.947413,
+    "total": 7506468.947413
+  },
+  {
+    "address": "0x6b992f4ae85bc9863249c87c3319c79a7f194f75",
+    "claimed_xcash": 6282312.450235,
+    "total": 6282312.450235
+  },
+  {
+    "address": "0x6bef28f22da3148f6726032b8e206843b0a080e4",
+    "claimed_xcash": 52942240.125234,
+    "total": 52942240.125234
+  },
+  {
+    "address": "0x6c7fcdb950f68e2c4774bcbcb0553560d397f600",
+    "total": 46522297.276527
+  },
+  {
+    "address": "0x6e585aa586a53b381e630652be715250acbfb0a8",
+    "claimed_xcash": 27266409.077596,
+    "total": 27266409.077596
+  },
+  {
+    "address": "0x6ee3569334eb2a9a81ced226ef107ccdd02ed49b",
+    "claimed_xcash": 107712618.284841,
+    "deposited_wxcash": 5846.000000000001,
+    "total": 107718464.284841
+  },
+  {
+    "address": "0x6f3dea589a16e9a725f85d0c09c24e528d3f027a",
+    "claimed_xcash": 8969721.299851,
+    "total": 8969721.299851
+  },
+  {
+    "address": "0x6fc97d56d11e625e985c48c5f17dd7735fb17d6e",
+    "claimed_xcash": 4733241.1,
+    "total": 4733241.1
+  },
+  {
+    "address": "0x7119f936fe9eba16ff204b41184be1cf4d921c51",
+    "claimed_xcash": 2153226.209263,
+    "total": 2153226.209263
+  },
+  {
+    "address": "0x73da0ce9311e506bd584b8e702d6aefcc59ba852",
+    "claimed_xcash": 52521648.641748,
+    "total": 52521648.641748
+  },
+  {
+    "address": "0x7984f854596077ee7bb92cd88a1925cba8bc7d6c",
+    "claimed_xcash": 240211933.121032,
+    "total": 240211933.121032
+  },
+  {
+    "address": "0x7a2271d7ccf000f881acea4887dbe2c02c2f75f4",
+    "claimed_xcash": 639043955.624026,
+    "total": 639043955.624026
+  },
+  {
+    "address": "0x7b35f1b4b94d60f322c6b75317d530ebc3e421cb",
+    "claimed_xcash": 90720059.0,
+    "total": 90720059.0
+  },
+  {
+    "address": "0x7be919b68f4c1362bf6ac0eee32a70b92c8a11a3",
+    "claimed_xcash": 48568239.0,
+    "total": 48568239.0
+  },
+  {
+    "address": "0x7cb44ce9ce423a008676e305f644db5375743043",
+    "claimed_xcash": 687520789.918224,
+    "total": 687520789.918224
+  },
+  {
+    "address": "0x7d0d1d343cddf2ecb36d2365558cef91b9debf5f",
+    "claimed_xcash": 208662489.970042,
+    "total": 208662489.970042
+  },
+  {
+    "address": "0x7d16f8356273e8b674e63b0fe4f5a348224ae99b",
+    "claimed_xcash": 11658219.118998,
+    "total": 11658219.118998
+  },
+  {
+    "address": "0x7eae54a90865c7e13304ea3ab63fef5f50439b9c",
+    "deposited_wxcash": 891060.6112333534,
+    "total": 891060.611233
+  },
+  {
+    "address": "0x7ec32a80154cf8a0c4ab8f4e79093fd541bd24b6",
+    "claimed_xcash": 5891705.135735,
+    "total": 5891705.135735
+  },
+  {
+    "address": "0x80172e7e46094243d42d15a6412b11a7259c9606",
+    "total": 60966968.214173
+  },
+  {
+    "address": "0x8094951bc55e945ffb1e74c35dc6a885a9feae51",
+    "deposited_wxcash": 1234.0,
+    "total": 1234.0
+  },
+  {
+    "address": "0x8135926c14d61d4f266e8f02e14c210349a550fc",
+    "claimed_xcash": 7214847.175426,
+    "total": 7214847.175426
+  },
+  {
+    "address": "0x81d1e68d3e2ee18805a7d16ad9a5482b30a62d84",
+    "claimed_xcash": 6358290.807426,
+    "total": 6358290.807426
+  },
+  {
+    "address": "0x82e153e1a5bf425741a044f1b4e35cd9dfcd92c1",
+    "claimed_xcash": 23990297.24579,
+    "total": 23990297.24579
+  },
+  {
+    "address": "0x835bcb541494010a97d0f9f5ab95bc15de760bea",
+    "claimed_xcash": 125029378.987051,
+    "total": 125029378.987051
+  },
+  {
+    "address": "0x840c0ed80ae59d963d8d2630cc86ceefc99bea59",
+    "claimed_xcash": 111476121.423936,
+    "total": 111476121.423936
+  },
+  {
+    "address": "0x84675204e710ff306a206f7f65f7790fd33ccf9b",
+    "claimed_xcash": 55322194.157959,
+    "total": 55322194.157959
+  },
+  {
+    "address": "0x850a2b3fa8b3da055e256afae88ab4d3f7aefdef",
+    "claimed_xcash": 12602073.606078,
+    "total": 12602073.606078
+  },
+  {
+    "address": "0x8590290ab0e68406a7340672d97745dd381ab136",
+    "claimed_xcash": 30444162.18614,
+    "total": 30444162.18614
+  },
+  {
+    "address": "0x898a8c1b0f7117da4d65e9b493bb80076f50f548",
+    "claimed_xcash": 15417.504384,
+    "total": 15417.504384
+  },
+  {
+    "address": "0x89d640ff1eb75a5e1e4af5571100784df9626876",
+    "total": 55818850.518737
+  },
+  {
+    "address": "0x8a6ca2e44d4c7c85ef5f1c4eba9f30264c738a14",
+    "total": 67736555.474282
+  },
+  {
+    "address": "0x8c17796b9875cfe653c791c68657e2a24472599f",
+    "claimed_xcash": 38530322.840651,
+    "total": 38530322.840651
+  },
+  {
+    "address": "0x8f2a5c5550243a4125bc32fd760d49b19ed48133",
+    "claimed_xcash": 72099417.060928,
+    "total": 72099417.060928
+  },
+  {
+    "address": "0x901a5cf28fdd77dd75878b420e918bf7ff741126",
+    "claimed_xcash": 4831379.002107,
+    "total": 4831379.002107
+  },
+  {
+    "address": "0x928c4405dcc663144a0398f227ade7b2a96a41c3",
+    "claimed_xcash": 30050464.085013,
+    "total": 30050464.085013
+  },
+  {
+    "address": "0x92bd1d15f7621da7edc265efe1f4c35f13b6572e",
+    "claimed_xcash": 193324477.381023,
+    "total": 193324477.381023
+  },
+  {
+    "address": "0x943556332a695419cf43e2064457d719ad7d2c78",
+    "claimed_xcash": 525864346.457828,
+    "total": 525864346.457828
+  },
+  {
+    "address": "0x9478f7ae429b315c42225891197f7f0d6586d6cb",
+    "claimed_xcash": 6115265.033303,
+    "total": 6115265.033303
+  },
+  {
+    "address": "0x96549023c7a5abfb0c27800b4268f76ed0fbc9bd",
+    "claimed_xcash": 498052599.616071,
+    "total": 498052599.616071
+  },
+  {
+    "address": "0x97e3d714e6078eb951ece4d0239990af6cb214be",
+    "claimed_xcash": 138000000.0,
+    "total": 138000000.0
+  },
+  {
+    "address": "0x999011c110dfce78cb12811a2619b016292260bc",
+    "claimed_xcash": 4090225.449112,
+    "total": 4090225.449112
+  },
+  {
+    "address": "0x9a15a07387ddfcd365ba5de2f8f91a2e71bfdf11",
+    "claimed_xcash": 125638011.399511,
+    "total": 125638011.399511
+  },
+  {
+    "address": "0x9b853edfb9c07a69235caeb0e11495254ef9470c",
+    "claimed_xcash": 11680302.722505,
+    "total": 11680302.722505
+  },
+  {
+    "address": "0x9cffcde7aad454be6f503f9f8b3fe65522924984",
+    "claimed_xcash": 12599428.567087,
+    "total": 12599428.567087
+  },
+  {
+    "address": "0x9d05cd1335398fe540dbb390a9b7bd388f9e5ee0",
+    "claimed_xcash": 82932746.943241,
+    "total": 82932746.943241
+  },
+  {
+    "address": "0x9e71e15ea2f8b8da64639b5fab7fe0fb636a3036",
+    "total": 13824444.840835
+  },
+  {
+    "address": "0x9f887be370101c7d9a9a781f5b013ee9f183784b",
+    "total": 29115241.936784
+  },
+  {
+    "address": "0xa18aa9c0bf2dfc0bbbca23dc55ed9e1e64814829",
+    "claimed_xcash": 99999.26398,
+    "total": 99999.26398
+  },
+  {
+    "address": "0xa1eba6a48579aac8fde77783af6dc0465156129f",
+    "claimed_xcash": 17915475.234424,
+    "total": 17915475.234424
+  },
+  {
+    "address": "0xa26144203426932e1fcde9ba21c84ffe5a126500",
+    "total": 38384491.366817
+  },
+  {
+    "address": "0xa32e06b721947f0d2ac88cc7ad0eaa5a21bf0fe1",
+    "claimed_xcash": 65885541.704963,
+    "total": 65885541.704963
+  },
+  {
+    "address": "0xa526659fc34d48378162ce0711661d45d5524432",
+    "claimed_xcash": 20624783.260949,
+    "total": 20624783.260949
+  },
+  {
+    "address": "0xa674ee3d308d334ff70d568dea8db311ab45a59b",
+    "claimed_xcash": 50742229.972461,
+    "total": 50742229.972461
+  },
+  {
+    "address": "0xa7283f3444a43e8a7f1c17e405826cd818df4bd9",
+    "total": 24100260.048111
+  },
+  {
+    "address": "0xa7a69278f71791314262a7cd4b80e5a5beebe17e",
+    "total": 20462099.074171
+  },
+  {
+    "address": "0xa7f5984bf45bd56fc8f6f4a47a5c498cc179f38e",
+    "claimed_xcash": 4393171.532233,
+    "total": 4393171.532233
+  },
+  {
+    "address": "0xa900970b39391b21222b233c48bb55ba027fa358",
+    "deposited_wxcash": 100.0,
+    "total": 100.0
+  },
+  {
+    "address": "0xaaf2c6df2cd772a88767714b6e922e83fce42edc",
+    "claimed_xcash": 127384454.169836,
+    "total": 127384454.169836
+  },
+  {
+    "address": "0xab82066e3f3587b41d30008d194430f51426e025",
+    "claimed_xcash": 37942434.898172,
+    "total": 37942434.898172
+  },
+  {
+    "address": "0xac15426193425ab40a4ed0c56ee197bdc90f811b",
+    "claimed_xcash": 140650485.199233,
+    "total": 140650485.199233
+  },
+  {
+    "address": "0xac53a7084bd8affdd1deea6c83b6b869427e8a11",
+    "claimed_xcash": 576201645.613163,
+    "deposited_wxcash": 44327170.985760875,
+    "total": 620528816.598924
+  },
+  {
+    "address": "0xac9952d61b1c208b77969595b58007528bafc4b5",
+    "claimed_xcash": 70852700.622853,
+    "total": 70852700.622853
+  },
+  {
+    "address": "0xadff4020e6e509010dd56833d71c9cd5496f3e5a",
+    "claimed_xcash": 700240622.336019,
+    "total": 700240622.336019
+  },
+  {
+    "address": "0xae3eabe6c50e7b6946f31a27ddfec6a5bcfaefaf",
+    "claimed_xcash": 69456619.136732,
+    "total": 69456619.136732
+  },
+  {
+    "address": "0xae52c88878156f02b428e09a45b165e4334a006f",
+    "claimed_xcash": 7829969.751711,
+    "total": 7829969.751711
+  },
+  {
+    "address": "0xaf04872c558cd2961d945430ce41341b248c0eac",
+    "claimed_xcash": 4010677.440687,
+    "total": 4010677.440687
+  },
+  {
+    "address": "0xb0856f254be0ae265ac7d3abc75eb6c164ff7b79",
+    "claimed_xcash": 6082738.677834,
+    "deposited_wxcash": 393431.30091079354,
+    "total": 6476169.978745
+  },
+  {
+    "address": "0xb1f4ef7ec73b070aea7e5e46cefa6b8a340d20ab",
+    "total": 8685678.819655
+  },
+  {
+    "address": "0xb2b3757be515634bea4f6eb2f645086141063e9b",
+    "total": 62335397.951762
+  },
+  {
+    "address": "0xb587ec4cd8474cc9f2f7dd043a6ad789c65cb34d",
+    "total": 60275214.825407
+  },
+  {
+    "address": "0xb624251c41d2606638de9d9a1078f0e838162450",
+    "claimed_xcash": 17261677.749623,
+    "total": 17261677.749623
+  },
+  {
+    "address": "0xb66962563454691d1d982a2879b214b225827697",
+    "claimed_xcash": 5225284.646661,
+    "total": 5225284.646661
+  },
+  {
+    "address": "0xb6b1397430dcaafa953daca5f1e595977d845fef",
+    "claimed_xcash": 43028067.60111,
+    "total": 43028067.60111
+  },
+  {
+    "address": "0xb7161d1a11ada7b3e73475007b6aaf2938aecc5d",
+    "claimed_xcash": 88470022.958434,
+    "total": 88470022.958434
+  },
+  {
+    "address": "0xb903da8c1f8db6ea03a4c975e8b6aa59bcaae142",
+    "total": 33701034.153928
+  },
+  {
+    "address": "0xb908b23590f1e751492a8ca927f1e98deb306123",
+    "total": 33351920.912844
+  },
+  {
+    "address": "0xb94734e0d826d17e41dc18cdf60b1a1a650839e8",
+    "claimed_xcash": 54866501.367317,
+    "total": 54866501.367317
+  },
+  {
+    "address": "0xb96d2c9ead1fd75da41097961f2f6ddde13559a4",
+    "claimed_xcash": 6384292.731907,
+    "total": 6384292.731907
+  },
+  {
+    "address": "0xb97b7d787e133f760a986403f13e29299b57a297",
+    "deposited_wxcash": 286719.9107574674,
+    "total": 286719.910757
+  },
+  {
+    "address": "0xbcdf55530d28572ac5add6f36ce56b40afa65d72",
+    "total": 31291722.68111
+  },
+  {
+    "address": "0xbed47371468c53613acca2f93452c49c4ecdc48f",
+    "claimed_xcash": 170721916.278593,
+    "total": 170721916.278593
+  },
+  {
+    "address": "0xbfb2b0b3b44a766dc042a0e432cf3f5183c7ca4c",
+    "claimed_xcash": 23752666.362632,
+    "total": 23752666.362632
+  },
+  {
+    "address": "0xc0b599d25d46415dcbb8be04eac95fa7d9f7a2a8",
+    "total": 24236821.168486
+  },
+  {
+    "address": "0xc28ef7b8b831c9b61bdea4ea92a1b0a8b62bd6bc",
+    "claimed_xcash": 893423.0,
+    "total": 893423.0
+  },
+  {
+    "address": "0xc37304850a62c78d547c38bc57f9f7613dd7c662",
+    "claimed_xcash": 17116721.209307,
+    "total": 17116721.209307
+  },
+  {
+    "address": "0xc477e63270b294f8e3f746efd785dabd951cddda",
+    "claimed_xcash": 58478892.688081,
+    "total": 58478892.688081
+  },
+  {
+    "address": "0xc5621d5e5d9ad6fb3a20563559ba844dff8155da",
+    "total": 32895216.794486
+  },
+  {
+    "address": "0xc61d77c9d4726ea17f54b4d21b7ab55746e9a464",
+    "claimed_xcash": 10206271.682673,
+    "total": 10206271.682673
+  },
+  {
+    "address": "0xc678368d32b6c9e0bc813a3c1b2f3a6581fd4c48",
+    "claimed_xcash": 71714408.42457,
+    "total": 71714408.42457
+  },
+  {
+    "address": "0xc7d3512fff374ba85cd54e6078ed0c39b93aefde",
+    "claimed_xcash": 6760014.352425,
+    "total": 6760014.352425
+  },
+  {
+    "address": "0xc815dab47991dcccc75623e0e3337d5a138398ce",
+    "claimed_xcash": 45457666.248018,
+    "total": 45457666.248018
+  },
+  {
+    "address": "0xc8c98748a0807a4393a8530fc3fbdc03d7b26fcc",
+    "claimed_xcash": 105777000.0,
+    "total": 105777000.0
+  },
+  {
+    "address": "0xca18d61ef4591af6f259c12e476645d6cff4494e",
+    "claimed_xcash": 256831226.493608,
+    "total": 256831226.493608
+  },
+  {
+    "address": "0xca4c7638bcf6e90d078903cc120273dc0094e72a",
+    "claimed_xcash": 51233385.430216,
+    "total": 51233385.430216
+  },
+  {
+    "address": "0xcaa716419c75ea55e5e2e6ce6d46046e6984e832",
+    "deposited_wxcash": 99999.99999999999,
+    "total": 100000.0
+  },
+  {
+    "address": "0xccbc49d5f5de9236fb17c427e207ee13de3fc84a",
+    "claimed_xcash": 22272083.831239,
+    "total": 22272083.831239
+  },
+  {
+    "address": "0xcceb8de282827cbb07242174d844f384382a828a",
+    "claimed_xcash": 2735826.711977,
+    "total": 2735826.711977
+  },
+  {
+    "address": "0xce3c315d73aedfdfb25c46c8ed6b5b1eec34e233",
+    "claimed_xcash": 37530354.326045,
+    "total": 37530354.326045
+  },
+  {
+    "address": "0xce5399f16af9e1e4a8c5c50f6655431b1a2a9d6f",
+    "claimed_xcash": 314166958.964981,
+    "total": 314166958.964981
+  },
+  {
+    "address": "0xce58b9e2a1315a6b4c21a277f6cefc05a24a3131",
+    "claimed_xcash": 35163000.0,
+    "total": 35163000.0
+  },
+  {
+    "address": "0xcee991c5a8e808ee8623da1de882f10bc74c4339",
+    "claimed_xcash": 43466024.918945,
+    "total": 43466024.918945
+  },
+  {
+    "address": "0xcfcfd6c5ec5c9ffae8c661c5aa1add46aef47d8e",
+    "claimed_xcash": 25321127.467552,
+    "total": 25321127.467552
+  },
+  {
+    "address": "0xd1bbdc33400015f4546f03dc90074a2e7db63496",
+    "claimed_xcash": 8770422.615947,
+    "total": 8770422.615947
+  },
+  {
+    "address": "0xd476a7c698bae2b9d1137d1cf6f251ae335004d0",
+    "deposited_wxcash": 70000000.00022376,
+    "total": 70000000.000224
+  },
+  {
+    "address": "0xd58a5a06fb489d3de89e0f6c73bdb786f35b1f08",
+    "claimed_xcash": 288490331.419574,
+    "total": 288490331.419574
+  },
+  {
+    "address": "0xd5e0a4caec0612ea93ef37a5dd319b404ed5cbcd",
+    "claimed_xcash": 25676472.728477,
+    "total": 25676472.728477
+  },
+  {
+    "address": "0xd5fdbec8185257805d4c58d0b26f104ca9a8db0d",
+    "claimed_xcash": 13528757.60272,
+    "total": 13528757.60272
+  },
+  {
+    "address": "0xd64bbdf68e486ad7818f0d19df0c4d49e5593745",
+    "claimed_xcash": 8993047.639707,
+    "total": 8993047.639707
+  },
+  {
+    "address": "0xd9d2c723ef36cc713548e0ee756e5341c04ddc31",
+    "total": 5857774.258638
+  },
+  {
+    "address": "0xda12c857117272660a8f8a8db5c400da48347a6a",
+    "claimed_xcash": 151820188.858921,
+    "total": 151820188.858921
+  },
+  {
+    "address": "0xda307ec15028640409e41204cb31e155b13d33e1",
+    "claimed_xcash": 19937146.863205,
+    "total": 19937146.863205
+  },
+  {
+    "address": "0xdad265d629cb67c3559c9d07154f556899499038",
+    "claimed_xcash": 17501790.731232,
+    "total": 17501790.731232
+  },
+  {
+    "address": "0xdca8cd055c4f4a6d733e2f9a713855993d4b75b9",
+    "claimed_xcash": 19662123.747745,
+    "total": 19662123.747745
+  },
+  {
+    "address": "0xdcb1d3fc2e5db146ef170e360a1f605688378031",
+    "total": 59634933.750136
+  },
+  {
+    "address": "0xdda1774b5d0effc784dd11312ede842f80de608c",
+    "total": 15907989.222061
+  },
+  {
+    "address": "0xdebc3f379226ceab92a8ceb89ffb0ca13a86e597",
+    "claimed_xcash": 120974776.308806,
+    "total": 120974776.308806
+  },
+  {
+    "address": "0xdf2c3ed1eb070238ace37a8bad9782b6cd5a0318",
+    "claimed_xcash": 109534756.907016,
+    "total": 109534756.907016
+  },
+  {
+    "address": "0xdfe17b7a47c9c733617c09b35c75ca10643c2cd5",
+    "total": 11996652.288936
+  },
+  {
+    "address": "0xe16eb40b88a17ffb3d2a32cac5a3282006bb552b",
+    "claimed_xcash": 22897.32966,
+    "total": 22897.32966
+  },
+  {
+    "address": "0xe1a3a4ffc43e0a7401618b3377bf0de9b40cdb04",
+    "claimed_xcash": 33486868.210731,
+    "total": 33486868.210731
+  },
+  {
+    "address": "0xe42f3e46149ebe256d2e3ce48b2c66224524c6e4",
+    "claimed_xcash": 50765747.96838,
+    "total": 50765747.96838
+  },
+  {
+    "address": "0xe5cf4f808da7d0e90ab2dcb0f6be2909406f271c",
+    "claimed_xcash": 13767894.345997,
+    "total": 13767894.345997
+  },
+  {
+    "address": "0xe659f77665c772bad7d9e6986211767fb5e7abbc",
+    "total": 697016.405638
+  },
+  {
+    "address": "0xe78ac9a6ec7ad5bdfe300367d4f69ab09afe2c04",
+    "claimed_xcash": 6532600.957291,
+    "total": 6532600.957291
+  },
+  {
+    "address": "0xe7bca1ddd9ef88db2cc54c5d7676f3e908a9ddfa",
+    "claimed_xcash": 30313615.135137,
+    "deposited_wxcash": 169276804.95318678,
+    "total": 199590420.088324
+  },
+  {
+    "address": "0xe97b086b9b00f76837d8cd3e4f73baaa53480c4c",
+    "claimed_xcash": 10604245.463197,
+    "total": 10604245.463197
+  },
+  {
+    "address": "0xe9c3d8a114137deaec49c8e97bf5469feded3568",
+    "claimed_xcash": 20735199.072674,
+    "total": 20735199.072674
+  },
+  {
+    "address": "0xea8afb7f161b638351273d147b236edea83d9e51",
+    "claimed_xcash": 475888876.5205,
+    "total": 475888876.5205
+  },
+  {
+    "address": "0xec12974d6e5dbba7684992943090f4f774530ae9",
+    "claimed_xcash": 7652392.701134,
+    "total": 7652392.701134
+  },
+  {
+    "address": "0xedf32223bed7bd9a76005547f91d46cd56b30fb8",
+    "claimed_xcash": 50952.811092,
+    "total": 50952.811092
+  },
+  {
+    "address": "0xf024f2f3270e60cc77505197cef5c6c3dce59086",
+    "deposited_wxcash": 22000000.0,
+    "total": 22000000.0
+  },
+  {
+    "address": "0xf0452f30c874b3379e17dd9689c5a1b9a49eb83f",
+    "claimed_xcash": 19727673.691,
+    "total": 19727673.691
+  },
+  {
+    "address": "0xf101537563ecd0ee5552655fb4c0374199fb85c1",
+    "total": 53465071.242889
+  },
+  {
+    "address": "0xf1069af95cc647cefca93cc07284644aef9ba708",
+    "deposited_wxcash": 1000.0,
+    "total": 1000.0
+  },
+  {
+    "address": "0xf1199faccbba8a9b08f76b6494a3327120f0580a",
+    "total": 33698029.110119
+  },
+  {
+    "address": "0xf140c09948c9eb1541adde65de31487760cf5a49",
+    "claimed_xcash": 41422258.12413,
+    "total": 41422258.12413
+  },
+  {
+    "address": "0xf1d2c572b9364c08537f59b14ccc5f6db8e05cf4",
+    "claimed_xcash": 213289503.098775,
+    "deposited_wxcash": 4752093.377499632,
+    "total": 218041596.476275
+  },
+  {
+    "address": "0xf241fc773a3b0c6c14a78713a4a7337789dfb5f1",
+    "total": 25957320.280217
+  },
+  {
+    "address": "0xf2c07aa40a538fba1be3c9b46137a2ba00357502",
+    "claimed_xcash": 200000000.0,
+    "total": 200000000.0
+  },
+  {
+    "address": "0xf32bb7e9217f4e5678f743241dc5ee6f29d8750b",
+    "claimed_xcash": 2002259.428198,
+    "total": 2002259.428198
+  },
+  {
+    "address": "0xf344215cf200d61dab32fe018aae636d0079be96",
+    "claimed_xcash": 50773308.193371,
+    "total": 50773308.193371
+  },
+  {
+    "address": "0xf3527e03adc9b4d968d460de518512898ef2b17f",
+    "total": 51246073.567783
+  },
+  {
+    "address": "0xf3df0f460c910002d4114b396427cb40b309639e",
+    "total": 26257991.539627
+  },
+  {
+    "address": "0xf4096a5e00d2ef8554668cc431659982ca5af150",
+    "claimed_xcash": 376938991.576029,
+    "total": 376938991.576029
+  },
+  {
+    "address": "0xf45db3b1e2629e9006368ec843f3237e54d21769",
+    "claimed_xcash": 1346765.807,
+    "total": 1346765.807
+  },
+  {
+    "address": "0xf6e3c84ed3b1d4717c893e5314c599e43f4144e7",
+    "claimed_xcash": 516109933.330875,
+    "total": 516109933.330875
+  },
+  {
+    "address": "0xf75e0f854f3bc8ed0d9289268fa89b98066378c5",
+    "claimed_xcash": 160740776.658818,
+    "total": 160740776.658818
+  },
+  {
+    "address": "0xf7dd0cbde1059a554bb1d9199dbc9b223a043971",
+    "total": 11221384.621104
+  },
+  {
+    "address": "0xf83587e2c06b97b77b36d973ed87fe6afc1c8c5e",
+    "claimed_xcash": 233488699.063882,
+    "total": 233488699.063882
+  },
+  {
+    "address": "0xf985e1473ae4b0a8b9b3a5baa7b1870734d23338",
+    "claimed_xcash": 403518573.277666,
+    "total": 403518573.277666
+  },
+  {
+    "address": "0xf9aa644cb4c8b491df2b19ad06e3c99842caab62",
+    "claimed_xcash": 107939348.154069,
+    "total": 107939348.154069
+  },
+  {
+    "address": "0xfb3e54af7e7c20e633e7d54a379db004f58d7efb",
+    "claimed_xcash": 132878566.152759,
+    "total": 132878566.152759
+  },
+  {
+    "address": "0xfd9ca99c10f3574e4bf6552bc2d93c329858c864",
+    "claimed_xcash": 129229671.215877,
+    "total": 129229671.215877
+  }
+]
